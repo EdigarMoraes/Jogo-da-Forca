@@ -1,2 +1,3 @@
 # Jogo-da-Forca
-Projeto alura
+Projeto faculdadde de analise e desenvolvimento  de sistemas, feito para ensinar Jovens a 
+iniciar na programação
